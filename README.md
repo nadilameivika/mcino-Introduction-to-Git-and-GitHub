@@ -15,4 +15,9 @@ Output
 
 _© 2022 XYZ, Inc._
 
+bug-fix-typo
 Additional update for pull request.
+
+
+This project is part of the GitHub final assignment.
+main
